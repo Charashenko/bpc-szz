@@ -1,0 +1,90 @@
+https://drive.google.com/drive/folders/1Iyo9NvcO4vNn_uJofK648mxL30CxzWAm?fbclid=IwAR0puHQbqEBxZ11c27ekQZ5x7RRSfPeGy0mEanXdTM8Nb86VrEp0u3OdYQU
+
+BKOM	Komunikační technologie	Otázky k SZZ pro akademický rok 2018/19 ---rovnaké ako 2017/2018
+1. Technika sítí a protokolů - komunikační modely, způsob přenosu informace, základní struktura sítí, typy sítí, architektura komunikace systémů. 
+2. Základní popis referenčního modelu ISO/OSI a srovnání s TCP/IP. 
+3. Základní popis síťového modelu TCP/IP a srovnání s ISO/OSI. 
+4. Principy komunikačních technik - vícenásobné využití cest, zajištění obousměrné komunikace. 
+5. Fyzická vrstva přenosových systémů - přenosová média, analogové a digitální modulace, klíčovací techniky. 
+6. Spojová vrstva přenosových systémů - podvrstvy, rámce spojové vrstvy, adresace, metody zajištění spolehlivého přenosu. 
+7. Síťová vrstva přenosových systémů - spínání paketů, služby síťové vrstvy, IPv4 adresy, techniky směrování, IPv4 datagram. 
+8. Síťová vrstva přenosových systémů - tunelování paketů, ARP, NAT, ICMPv4, IPv6. 
+9. Transportní vrstva přenosových systémů - služby transportní vrstvy, UDP protokol, TCP protokol. 
+10. Aplikační vrstva přenosových systémů - DHCP protokol, DNS systém, přenos souborů, webové protokoly, elektronická pošta.
+
+TAKR	Aplikovaná kryptografie	Otázky k SZZ pro akademický rok 2018/19 -rovnaké ale vypracovanie nič moc
+1) Prvočísla – popište způsob generování a uveďte příklad pravděpodobnostního testu a skutečného testu. 
+2) Teorie čísel, algebraické struktury – popište účel a způsob výpočtu Eulerovy funkce. Popište požadavky na grupu a způsob generování grupy pro algoritmy založené na problému DL. 
+3) Modulární aritmetika – popište algoritmus Square and Multiply a Čínskou větu o zbytcích. 
+4) Symetrická kryptografie – proudové šifry, synchronní a asynchronní proudové šifry. 
+5) Blokové šifry - Product Ciphers, konstrukce, Feistelova síť, DES, AES, základní módy blokových šifer. 
+6) Asymetrické algoritmy - RSA, Diffie-Hellman, ECDH systém a jejich využití pro digitální podpis. 
+7) Hašovací funkce - vlastnosti, princip, použití, kolize, odolnost proti kolizím, příklady. 
+8) PKI - certifikát X.509 struktura, certifikační autorita základní části, časová razítka, autorita časových razítek. 
+9) Generování náhodných čísel - kryptografické generátory, požadavky, použití, princip, testování generátorů. 
+10) Bezpečnostní architektura RM OSI - služby bezpečnosti, mechanizmy bezpečnosti, útoky na bezpečnost, příklady implementace bezpečnostních mechanizmů v jednotlivých vrstvách.
+
+TIC2	Bezpečnost ICT 2	Otázky k SZZ pro akademický rok 2018/19 -rovnaké
+1) Definujte a vysvětlete základní pojmy (aktiva, hrozba, ochrana, bezpečnost, zranitelnost, riziko, incident a dopad). 
+2) Bezpečná konfigurace přepínače a směrovače (základní postupy konfigurace, bezpečnostní funkce, útoky, Port Security, port Fast, hardening). 
+3) Problematika logování, hlavní cíle a rozdělení (definice logu, základní kategorie, formát, obsah logu, struktura záznamu, ochrana logů). 
+4) Definice operací nutných k aplikaci automatické analýzy logů (blokové schéma včetně popisu funkce jednotlivých bloků). Jakým způsobem je realizován blok korelace při detekci známých a neznámých událostí. 
+5) Detekce nepříznivých událostí na základě signatur a anomálií, systémy IDS/IPS (vzájemný vztah, efektivita a ladění, umístění, základní architektura, zástupci, referenční model). 
+6) Dělení penetračních testů (dle znalosti, způsobu realizace a cíle), metodologie testování (pět kroků testování). Penetrační testování webových aplikací (OWASP, průzkum prostředí, mapování aplikace, testování vstupů, závěreční report). 
+7) (D)DoS útoky (princip, rozdělení, popis základních útoků, SYN Flood, HTTP Flood, DNS reflection, Ping of Death, Slowloris). Zátěžové testování (typy testů, nejznámější nástroje). 
+8) Netechnické typy útoků, sociální inženýrství, phising (používané techniky), útoky MitM (ARP spoofing, DNS spoofing, SSL strip, SSL sniff). 
+9) Protokoly IPsec a TLS (princip, umístění TCP/IP, průběh komunikace, autentizace, utajení a integrita dat). 
+10) Zabezpečení 802.11 (WPA2, používaná kryptografická primitiva, klíčové hospodářství, popis 4Way Handshake, testování bezpečnosti). 
+
+TTIN	Teoretická informatika	Otázky k SZZ pro akademický rok 2018/19 -rovnaké
+1) Správa paměti, statické přidělování paměti, dynamické pěidelování paměti, garbage collector, reprezentace informace v paměti 
+2) Jazyk UML a objektově orientovaný návrh - dědicnost, generalizace, asociace 1:n, n:1, n:n, agregace a kompozice. 
+3) Třídy složitosti paměťové a časové. Třídy P, NP, NP úplné. Church Turingovat teze. Problém zastavení Turingova stroje. Notace Theta. Notace Omega. Notace velké-O. Asymptotický popis složitosti algoritmu. Posouzení složitosti známých algoritmů. Posouzení složitosti algoritmu vyhledávání. Srovnání lineárních a nelineárních struktur. Vztah časové a paměťové složitosti. Teorie spočitatelnosti, Teorie automatů, stavový automat, zásobníkový automat, Turingův stroj, varianty Turingova stroje 
+4) Abstraktní datový typ (ADT). ADT lineární seznam. ADT cyklický seznam. Operace vkládání, mazání a vyhledávání v ADT lineární seznam. ADT zásobník, ADT fronta. 
+5) Abstraktní datový typ strom. Abstraktní datový typ binární strom. Úplný binární strom. Abstraktní datový typ binární vyhledávací strom (operace vložení, odstranění, smazání uzlu stromu). Průchody stromy in-order, pre-order, post-order. 
+6) Problematika nevyvážených stromů. Vyvažování stromů AVL - rotace: jednoduchá levá, jednoduchá pravá, dvojitá levá, dvojitá pravá. Red-Black stromy. Posouzení z pohledu časové a paměťové složitosti. ADT hashovací tabulky. Rešení kolizí hashovacích tabulek. Srovnání výkonnosti binárních vyhledávacích stromů a hashovacích tabulek. 
+7) Grafy, formální definice. Vyhledávání v grafech. Algoritmus BFS (prohledávání do šírky). Reprezentace BFS v paměti. Algoritmus DFS (prohledávání do hloubky). Omezené prohledávání do hloubky (DLS). Iterativní prohledávání do šířky (IDLS), Dijkstrův algoritmus (Uniform Cost Search), A*, Minimální kostra grafu, centralizovaný algoritmus, distribuovaný algoritmus 
+8) Dolování znalostí z báze dat, křížová validace, neuronová síť, systémy podpůrných vektorů, rozhodovací stromy. 
+9) Evlouční algoritmy. Genetické algoritmy, genetické programování. Pojmy populace, mutace, krížení, chromozom. Princip evolučních algoritmů. 
+10) Procesy, vlákna, uvíznutí, synchronizace, uvíznutí, sdílení paměti
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+BSOS	Síťové operační systémy	Otázky k SZZ pro akademický rok 2018/19 -iné -nové od Klečku
+1) Základní struktura OS – jádro, architektura monolitická a klient-server, virtuální stroje 
+2) Struktura procesů – uživatelský kontext, kontext jádra 
+3) Činnost procesů – rozšířený stavový model běhu procesů 
+4) Plánování procesů – okamžiky rozhodnutí, plánovací algoritmy, systém priorit 
+5) Synchronizace procesů – souběh, vzájemné vyloučení, uvíznutí procesů 
+6) Správa paměti – koncept virtuální paměti, stránkování a segmentace 
+7) Správa paměti – alokace paměti, algoritmy přesunu stránek do odkládací paměti 
+8) Souborové systémy – struktura disku, metody ukládání datových bloků 
+9) Souborové systémy – konsistence dat a metadat, žurnálovací souborové systémy 
+10) Síťová komunikace – průběh komunikace na straně klienta a serveru, stavy soketů a systémová volání	
+
+TSPR	Softwarové právo	Otázky k SZZ pro akademický rok 2018/19 -rovnaké
+1) Počítačový program jako předmět právní ochrany - srovnání ochrany autorským právem a patenty 
+2) Právní ochrana součástí software - ochrana funkcionality, grafického uživatelského rozhraní, fontů, souborových formátů 
+3) Autorství počítačového programu - autor, spoluautor, kolektivní dílo, souborné dílo, odvozerné dílo 
+4) Osobnostní a majetková práva autora počítačového programu 
+5) Počítačový program jako zaměstnanecké dílo, školní dílo nebo dílo na zakázku 
+6) Právní ochrana technických prostředků - DRM 
+7) Licenční smlouva - pojem, strany, obsah, forma a proces uzavírání 
+8) Výjimky z autorskoprávní ochrany, zákonné licence v autorském právu, dekompilace a reverse engineering 
+9) Veřejné licence na software, open source software 
+10) Vymáhání práv z duševního vlastnictví - nároky, postupy, předběžná opatření
+
+TUP2	Úvod do práva ICT 2	Otázky k SZZ pro akademický rok 2018/19 
+1) Veřejnoprávní ochrana autorského práva 
+2) Elektronický podpis a elektronická pečeť – právní úprava a druhy 
+3) Datové schránky – právní úprava a praxe používání 
+4) Provozní a lokalizační údaje a jejich využití v trestním řízení 
+5) Právo elektronických komunikací – předmět a účel právní úpravy 
+6) Síťová neutralita v EU a USA 
+7) Ochrana osobních údajů – vymezení osob a základní principy zpracování osobních údajů 
+8) Práva subjektu údajů ve vztahu ke správci a zpracovateli 
+9) Informace veřejného sektoru – pojem, česká a evropská právní úprava 
+10) Otevřená data – pojem a právní úprava
+
+
